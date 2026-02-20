@@ -1,5 +1,6 @@
 # diff_tim
-example of training for traffic data 
+example of unguided sampling for model trained on traffic data  
+
 pip install -r requirements.txt
 !python exe_forecasting.py \
   --datatype traffic \
